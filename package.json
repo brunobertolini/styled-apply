@@ -1,6 +1,6 @@
 {
   "name": "styled-apply",
-  "version": "0.3.0",
+  "version": "0.1.0",
   "description": "Hoc to apply styles, styled-by options and styled-rules",
   "license": "MIT",
   "repository": "brunobertolini/styled-apply",
